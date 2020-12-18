@@ -1,0 +1,1 @@
+# lambda_s3_copy_object
